@@ -1,0 +1,10 @@
+---
+title: "Veggie Recipe Printer"
+type: "challenge"
+description: "Write a program that prints out recipes in a particular format using Ruby and ERB."
+visibility: "assign"
+tags: "evening-exercise, views"
+ignore:
+- "veggie-recipe-printer.md"
+- "erb_ex1.rb"
+- "erb_ex2.rb"
